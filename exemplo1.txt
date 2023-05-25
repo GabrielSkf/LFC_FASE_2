@@ -1,0 +1,12 @@
+{
+   bool ola
+   int var_1
+   var_1 = 1
+   string name
+   name = John
+   if (var_1 > 0) {
+       ola = TRUE
+   } else {
+       ola = FALSE
+   }
+}

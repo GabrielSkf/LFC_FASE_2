@@ -1,0 +1,9 @@
+{
+   for(int i = 0; i<5; i = i + 1) {
+        int ola2
+        ola2 = i
+   }
+   int num
+   num = 4
+   print(num)
+}
